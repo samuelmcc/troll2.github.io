@@ -1,0 +1,46 @@
+
+* { margin: 0; padding: 0; }
+        
+body { 
+            background: url(../img/parked.jpg) no-repeat center center fixed; 
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            font-family: helvetica;
+}
+
+h1 {
+	font-size: 31px;
+	padding-top: 15px;
+	padding-left: 15px;
+}
+
+h2 {
+	font-size: 20px;
+	text-align: left;
+	line-height: 2em;
+	padding-left: 19px;
+
+}
+
+h2 a {
+	color: #3B5998; 
+	text-decoration: none;
+}
+
+h2 a:hover {
+	color:#ffffff;
+	text-decoration: none;
+}
+
+#container {
+	padding: 0pt;
+	top: 60%;
+	left: 12%;
+	height: 100px;
+	width: 450px;
+	position: absolute;
+	background: url(../img/divbg.png);
+	background-repeat: none;
+}
